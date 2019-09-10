@@ -1,23 +1,17 @@
+
 {
-"current_page": 1,
-"data": [
-{
-"id": 1,
-"name_sinhala": "amaradewa",
-"name_english": "amaradewa",
-"image": null,
-"created_at": "2019-09-04 12:13:34",
-"updated_at": "2019-09-04 12:13:34"
-}
-],
-"first_page_url": "http://localhost/api/singers?page=1",
-"from": 1,
-"last_page": 1,
-"last_page_url": "http://localhost/api/singers?page=1",
-"next_page_url": null,
-"path": "http://localhost/api/singers",
-"per_page": 15,
-"prev_page_url": null,
-"to": 1,
-"total": 1
+  "list": [
+    {
+      "priority": "low",
+      "task": "get up"
+    },
+     {
+      "priority": "high",
+      "task": "wash"
+    }
+    
+    
+    
+  ]
+  
 }
