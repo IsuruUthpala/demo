@@ -2,12 +2,29 @@
   "list": [
     {
       "priority": "low",
-      "task": "get up"
+      "task": "format laptop"
     },
      {
       "priority": "high",
-      "task": "wash"
+      "task": "git tutorial"
+    },
+     {
+      "priority": "low",
+      "task": "service bike"
+    },
+     {
+      "priority": "high",
+      "task": "post the letter"
+    },
+     {
+      "priority": "low",
+      "task": "wash clothes"
+    },
+     {
+      "priority": "high",
+      "task": "check emails"
     }
+    
     
     
    ]
